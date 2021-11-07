@@ -1,0 +1,9 @@
+<settings>
+    <mirrors>
+        <mirror>
+            <id>nexus</id>
+            <mirrorOf>*</mirrorOf>
+            <url>http://172.29.171.132:8081/repository/maven-central/</url>
+        </mirror>
+    </mirrors>
+</settings>
